@@ -47,4 +47,6 @@ npm run seeder
 ```
 ### config.env not provided due to credentials
 
-``` Please contact the author for config.env ```
+```
+Please contact the author for config.env
+```
