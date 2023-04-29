@@ -45,3 +45,6 @@ Use the following commeand to put some dummy products in that database.
 ```
 npm run seeder
 ```
+### config.env not provided due to credentials
+
+``` Please contact the author for config.env ```
